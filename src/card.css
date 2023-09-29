@@ -1,0 +1,53 @@
+/* CSS for ProductCard Component */
+
+.whole-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33.33%; /* Set width to 33.33% for three cards per row */
+    padding: 10px; /* Add some spacing between cards */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+  }
+  
+  .card {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card-type {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .card-place {
+    font-weight: bold;
+  }
+  
+  .card-price {
+    color: #007bff; /* Blue color for price */
+  }
+  
+  .card-owner {
+    font-style: italic;
+  }
+  
+  .card-contact {
+    margin-top: 10px;
+  }
+  
+  /* Clearfix for handling uneven card heights */
+  .whole-card::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  

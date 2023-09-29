@@ -1,0 +1,44 @@
+/* CSS for MiniBlog Component */
+.mini-blog-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: beige;
+  }
+  
+  .mini-blog {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .image-left {
+    flex-direction: row-reverse;
+  }
+  
+  .content-left {
+    flex-direction: row;
+  }
+  
+  .mini-blog-content {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .mini-blog-content h2 {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+  
+  .mini-blog-content p {
+    margin: 0;
+  }
+  
+  .mini-blog-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  img{
+    border-radius: 10px;
+  }
+  

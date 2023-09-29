@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Blog 1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "imageUrl": "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk-300x300.jpeg"
+    },
+    {
+      "title": "Blog 2",
+      "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk-300x300.jpeg"
+    },
+    {
+      "title": "Blog 3",
+      "text": "Quisque et sapien nec risus laoreet dignissim.",
+      "imageUrl": "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk-300x300.jpeg"
+    },
+    {
+      "title": "Blog 4",
+      "text": "Vivamus eu orci eget sem rhoncus facilisis a ac metus.",
+      "imageUrl": "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk-300x300.jpeg"
+    },
+    {
+        "title": "Blog 5",
+        "text": "Vivamus eu orci eget sem rhoncus facilisis a ac metus.",
+        "imageUrl": "https://cdn.geekwire.com/wp-content/uploads/2014/09/elonmusk-300x300.jpeg"
+      }
+  ]
+  
